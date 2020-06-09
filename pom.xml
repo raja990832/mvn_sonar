@@ -15,6 +15,12 @@
   </properties>
 
   <dependencies>
+    <distributionManagement>
+  <repository>
+    <id>releases</id>
+    <url>http://13.127.13.122:8081/nexus/content/repositories/releases</url>
+  </repository>
+</distributionManagement>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
