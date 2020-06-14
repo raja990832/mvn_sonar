@@ -22,12 +22,12 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-       <distributionManagement>
+   <!--    <distributionManagement>
   <snapshotRepository>
     <id>nexus</id>
     <url>http://13.233.104.85:8081/nexus/content/repositories/snapshots</url>
   </snapshotRepository>
-</distributionManagement> 
+</distributionManagement> -->
  <!-- <distributionManagement>
     <repository>
         <id>central</id>
